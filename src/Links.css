@@ -1,0 +1,23 @@
+#links{
+    margin-top:1%;
+}
+#links h2{
+    color: white;
+}
+#links .divider {
+    margin-top: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5%; /* Espacio entre los botones */
+    width: 100%;
+}
+
+#links .divider a {
+    display: flex;
+    align-items: space-between;
+    justify-content: center;
+    font-family: system-ui, sans-serif;
+    padding: .5em;
+}

@@ -1,17 +1,19 @@
 import './App.css';
+import About from './About';
+import Links from './Links';
+import Frontend from './Frontend';
 
 export default function App() {
     return (
         <div className="App">
-            <img id="profpic" src="assets/carlos.jpg" alt="Profile Picture" />
+            <div className='profile-wrapper'>
+                <img id="profpic" src="assets/carlos.jpg" alt="Profile Picture"/>
+            </div>
             <h1>Carlos Arroyo</h1>
             <h2>Full-Stack Developer & AI Engineer</h2>
-            <section>
-                <h3>About Me</h3>
-                <p>
-                    I am a full-stack developer and AI engineer with a passion for technology and innovation. I have experience in web development, machine learning, and cloud computing. I am always looking for new opportunities to learn and grow as a professional.
-                </p>
-            </section>
+            <About />
+            <Frontend />
+            <Links />
         </div>
     )
 };

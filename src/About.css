@@ -1,0 +1,22 @@
+.custom-border-bg{
+    border-color: #0379e7 !important;
+}
+#About{
+    margin-top: 3%;
+    font-family: system-ui, sans-serif;
+    color:white;
+    margin-left:10%;
+    margin-right: 10%;
+    padding: 2%;
+}
+
+h3{
+    font-size: 1.5em;
+    font-weight:bold;
+    text-align: left;
+}
+
+p{
+    margin-right: 10%;
+    width:100%;
+}
