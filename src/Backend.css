@@ -1,16 +1,17 @@
 .custom-border-bg{
     border-color: #75bcff !important;
 }
-#About{
+
+#Backend .title{
+    color: #75bcff;
+}
+#Backend{
     margin-top: 3%;
     font-family: system-ui, sans-serif;
     color:white;
     margin-left:10%;
     margin-right: 10%;
     padding: 2%;
-}
-#About .title{
-    color: #75bcff;
 }
 
 h3{

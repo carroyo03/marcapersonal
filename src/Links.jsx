@@ -4,7 +4,7 @@ import './Links.css'; // Asegúrate de importar el archivo CSS
 export default function Links() {
     return (
         <div id="links">
-            <h2>Follow Me</h2>
+            <h2>Get in touch</h2>
             <div className="divider">
                 <a href="https://github.com/carroyo03" target="_blank" rel="noreferrer">
                     <button aria-label="GitHub" id="GitHub" className="btn btn-primary rounded-2 border border-2">

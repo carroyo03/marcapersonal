@@ -1,5 +1,5 @@
 import './Frontend.css';
-import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaBootstrap, FaNode } from 'react-icons/fa';
+import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaBootstrap, FaFigma } from 'react-icons/fa';
 
 export default function Frontend() {
     return(
@@ -12,7 +12,7 @@ export default function Frontend() {
                     <li className="mb-2"><FaJs className="icon" /> JavaScript</li>
                     <li className="mb-2"><FaReact className="icon" /> React</li>
                     <li className="mb-2"><FaBootstrap className="icon" /> Bootstrap</li>
-                    <li className="mb-2"><FaNode className="icon" /> Node.js</li>
+                    <li className="mb-2"><FaFigma className="icon" /> Figma</li>
                 </ul>
             </section>
         </div>

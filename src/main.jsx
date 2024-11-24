@@ -2,6 +2,7 @@ import React, { lazy, Suspense } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
+
 const App = lazy(() => import('./App.jsx'));
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -14,11 +15,12 @@ const GlobalErrorHandler = ({ children }) => {
   );
 };
 
+
 root.render(
   <React.StrictMode>
     <Suspense fallback={<div>Loading...</div>}>
-    <GlobalErrorHandler>
-      <App />
+      <GlobalErrorHandler>
+        <App />
       </GlobalErrorHandler>
     </Suspense>
   </React.StrictMode>
