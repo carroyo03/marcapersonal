@@ -1,4 +1,4 @@
-import './Backend.css';
+import '../styles/Backend.css';
 import { FaPython, FaNode} from 'react-icons/fa';
 import { TbSql} from 'react-icons/tb';
 import { SiMongodb, SiCplusplus} from 'react-icons/si';

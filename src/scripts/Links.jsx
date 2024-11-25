@@ -1,5 +1,5 @@
 import { Github, Linkedin, Mail } from 'lucide-react';
-import './Links.css'; // Asegúrate de importar el archivo CSS
+import '../styles/Links.css'; // Asegúrate de importar el archivo CSS
 
 export default function Links() {
     return (

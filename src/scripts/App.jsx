@@ -1,4 +1,4 @@
-import './App.css';
+import '../styles/App.css';
 import About from './About';
 import Links from './Links';
 import Frontend from './Frontend';

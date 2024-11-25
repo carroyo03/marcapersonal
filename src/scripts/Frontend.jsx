@@ -1,4 +1,4 @@
-import './Frontend.css';
+import '../styles/Frontend.css';
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaBootstrap, FaFigma } from 'react-icons/fa';
 
 export default function Frontend() {

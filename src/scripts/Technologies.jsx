@@ -1,4 +1,4 @@
-import './Technologies.css';
+import '../styles/Technologies.css';
 import { VscAzure} from 'react-icons/vsc';
 import { FaDocker,FaGitAlt} from 'react-icons/fa';
 import { SiPostman, SiAlteryx, SiScikitlearn, SiSelenium} from 'react-icons/si';
