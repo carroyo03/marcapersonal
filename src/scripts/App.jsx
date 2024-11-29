@@ -4,6 +4,8 @@ import Links from './Links';
 import Frontend from './Frontend';
 import Backend from './Backend';
 import Technologies from './Technologies';
+import GitHubProjects from './GitHubProjects';
+import Experience from './Experience';
 
 export default function App() {
     return (
@@ -17,6 +19,7 @@ export default function App() {
             <Frontend />
             <Backend />
             <Technologies />
+            <GitHubProjects />
             <Links />
         </div>
     )

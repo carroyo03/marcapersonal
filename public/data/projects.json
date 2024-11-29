@@ -1,0 +1,17 @@
+[
+    {
+        "name": "A* Algorithm Project",
+        "description": "Python project which applies an A* algorithm for finding an optimal path for a robot in a randomly generated 2D matrix.",
+        "url": "https://github.com/carroyo03/fuzzy-chickpea"
+    },
+    {
+        "name": "Spotify Song Recommender",
+        "description": "Basic implementation of a song analyser in C++. The song analyser facilitates diverse actions,  including song and artist recommendations, as well as generating songs’ rankings.",
+        "url": "https://github.com/carroyo03/Spotify-Song-Recommender"
+    },
+    {
+        "name": "BookEat (Restaurants recommender app)",
+        "description": "App design project produced with Figma of a Restaurant Recommender concept, adapted to users’ preferences.",
+        "url": "https://www.figma.com/file/vHgXMxp5CBqFwL60RgcBrn/BookEat"
+    }
+]
