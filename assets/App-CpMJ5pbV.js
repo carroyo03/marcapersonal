@@ -1,4 +1,4 @@
-import{j as w,r as le,R as Oe,g as Jr,c as Kr}from"./index-CMw4eU8D.js";function ei(){return w.jsx("div",{id:"About",className:"rounded-3 border border-5 custom-border-bg",children:w.jsxs("section",{children:[w.jsx("h3",{className:"title",children:"About Me"}),w.jsx("p",{children:"I am a full-stack developer and AI engineer with a passion for technology and innovation. I have experience in web development, machine learning, and cloud computing. I am always looking for new opportunities to learn and grow as a professional."})]})})}/**
+import{j as w,r as le,R as Oe,g as Jr,c as Kr}from"./index-N9S6FeQF.js";function ei(){return w.jsx("div",{id:"About",className:"rounded-3 border border-5 custom-border-bg",children:w.jsxs("section",{children:[w.jsx("h3",{className:"title",children:"About Me"}),w.jsx("p",{children:"I am a full-stack developer and AI engineer with a passion for technology and innovation. I have experience in web development, machine learning, and cloud computing. I am always looking for new opportunities to learn and grow as a professional."})]})})}/**
  * @license lucide-react v0.460.0 - ISC
  *
  * This source code is licensed under the ISC license.
