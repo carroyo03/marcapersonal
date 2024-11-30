@@ -5,8 +5,8 @@ export default function TimelineElement({ title, subtitle, date, content }) {
     return (
         <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: '#f0f0f0', color: '#000' }}
-            contentArrowStyle={{ borderRight: '7px solid #f0f0f0' }}
+            contentStyle={{ background: '#383737', color: '#000' }}
+            contentArrowStyle={{ borderRight: '7px solid #383737' }}
             date={date}
             dateClassName="dateStyle"
             iconStyle={{ background: '#75bcff', color: '#000' }}
