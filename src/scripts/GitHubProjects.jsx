@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react';
 import '../styles/GitHubProjects.css';
 import $ from 'jquery';
 
+// GitHub projects section
+
 export default function GitHubProjects() {
     const [proyectos, setProyectos] = useState([]);
     const [isLoading, setIsLoading] = useState(true);

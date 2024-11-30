@@ -3,6 +3,8 @@ import { VerticalTimeline}  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import TimelineElement from './TimeLineElement';
 
+// This is the Experience section
+
 export default function Experience() {
     return(
         <div id="Experience" className="rounded-3 border border-5 custom-border-bg p-4">

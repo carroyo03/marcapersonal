@@ -2,6 +2,7 @@ import React, { lazy, Suspense } from 'react';
 import ReactDOM from 'react-dom/client';
 import '../styles/index.css';
 
+// Lazy loading the main component
 
 
 const App = lazy(() => import('./App.jsx'));

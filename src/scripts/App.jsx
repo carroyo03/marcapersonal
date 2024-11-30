@@ -8,6 +8,8 @@ const Technologies = lazy(() => import('./Technologies'));
 const GitHubProjects = lazy(() => import('./GitHubProjects'));
 const Experience = lazy(() => import('./Experience'));
 
+// This is the main component with all the sections
+
 export default function App() {
     return (
         <div className="App">

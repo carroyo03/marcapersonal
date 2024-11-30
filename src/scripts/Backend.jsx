@@ -3,6 +3,8 @@ import { FaPython, FaNode} from 'react-icons/fa';
 import { TbSql} from 'react-icons/tb';
 import { SiMongodb, SiCplusplus} from 'react-icons/si';
 
+// Backend development skills section
+
 export default function Backend() {
     return(
         <div id="Backend" className="rounded-3 border border-5 custom-border-bg p-4">

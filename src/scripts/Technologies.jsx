@@ -3,6 +3,8 @@ import { VscAzure} from 'react-icons/vsc';
 import { FaDocker,FaGitAlt} from 'react-icons/fa';
 import { SiPostman, SiAlteryx, SiScikitlearn, SiSelenium} from 'react-icons/si';
 
+// Technologies and frameworks section
+
 export default function Technologies() {
     return(
         <div id="Backend" className="rounded-3 border border-5 custom-border-bg p-4">

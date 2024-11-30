@@ -1,6 +1,8 @@
 import '../styles/Frontend.css';
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaBootstrap, FaFigma } from 'react-icons/fa';
 
+// Frontend development skills section
+
 export default function Frontend() {
     return(
         <div id="Frontend" className="rounded-3 border border-5 custom-border-bg p-4">

@@ -1,6 +1,8 @@
 import { useRef } from 'react';
 import { Github, Linkedin, Mail } from 'lucide-react';
-import '../styles/Links.css'; // Asegúrate de importar el archivo CSS
+import '../styles/Links.css'; 
+
+// Links section
 
 export default function Links() {
     const githubRef = useRef();

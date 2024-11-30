@@ -1,5 +1,7 @@
 import '../styles/About.css';
 
+//Description of me
+
 export default function About() {
     return(
     <div id = "About" className="rounded-3 border border-5 custom-border-bg">
