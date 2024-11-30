@@ -13,7 +13,8 @@
     margin-right: 10%;
     padding: 2%;
 }
-  
+
+
 .proyectos-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(18.75rem, 1fr)); /* 18.75rem = 300px */

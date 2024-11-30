@@ -1,7 +1,7 @@
 .custom-border-bg{
     border-color: #75bcff !important;
 }
-#About{
+#Experience{
     margin-top: 3%;
     font-family: system-ui, sans-serif;
     color:white;
@@ -9,11 +9,11 @@
     margin-right: 10%;
     padding: 2%;
 }
-
-
-#About .title{
+#Experience .title{
     color: #75bcff;
 }
+
+
 
 h3{
     font-size: 1.5em;
@@ -24,4 +24,10 @@ h3{
 p{
     margin-right: 10%;
     width:100%;
+}
+
+.dateStyle{
+    color:#2f9bff;
+    font-weight:bold;
+    
 }

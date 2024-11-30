@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import '../styles/index.css';
 
 
+
 const App = lazy(() => import('./App.jsx'));
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
